@@ -20,5 +20,5 @@ Primeira aula com conceitos e exemplos básicos do Java. Projeto feito no Intell
 ![Abrindo o projeto na IDE](https://github.com/AlissonCiprian0/aulaJava_1/blob/master/Gifs/3.gif "Abrindo o projeto na IDE")
 
 <a name="rodar-projeto"/>
-![Rodando o projeto](https://github.com/AlissonCiprian0/aulaJava_1/blob/master/Gifs/4.gif "Rodando o projeto")
+![Rodando o projeto](https://github.com/AlissonCiprian0/aulaJava_1/blob/master/Gifs/4.gif?raw=true "Rodando o projeto")
 
