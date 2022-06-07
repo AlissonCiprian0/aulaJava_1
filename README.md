@@ -14,10 +14,10 @@ Primeira aula com conceitos e exemplos básicos do Java. Projeto feito no Intell
 ![Screenshot](Gifs/1.gif)
 
 <a name="abrir-ide"/>
-![Screenshot](./Gifs/2.gif)
+![Screenshot](/Gifs/2.gif)
 
 <a name="abrir-projeto"/>
-![Screenshot](./Gifs/3.gif)
+![Screenshot](/Gifs/3.gif)
 
 <a name="rodar-projeto"/>
-![Screenshot](./Gifs/4.gif)
+![Screenshot](/Gifs/4.gif)
