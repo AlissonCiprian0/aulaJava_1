@@ -11,7 +11,7 @@ Primeira aula com conceitos e exemplos básicos do Java. Projeto feito no Intell
 - [Aula gravada em vídeo](https://we.tl/t-mlQD1R0zML) (construção do projeto)
 
 <a name="clone"/>
-![Screenshot](Gifs/1.gif)
+[Fazendo o clone](Gifs/1.gif)
 
 <a name="abrir-ide"/>
 [Abrindno a IDE](Gifs/2.gif)
